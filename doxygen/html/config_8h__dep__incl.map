@@ -1,0 +1,8 @@
+<map id="config.h" name="config.h">
+<area shape="rect" id="node2" href="$config_8cpp.html" title="Implementation of the functions defined in config.h. " alt="" coords="5,80,87,107"/>
+<area shape="rect" id="node3" href="$cell_automaton_8h.html" title="Definition of the cellular automaton class used for the &quot;Game of life&quot;. " alt="" coords="237,80,353,107"/>
+<area shape="rect" id="node5" href="$application_8cpp.html" title="Implementation of the functions defined in application.h. " alt="" coords="174,229,283,256"/>
+<area shape="rect" id="node6" href="$main_8cpp.html" title="main file " alt="" coords="413,229,487,256"/>
+<area shape="rect" id="node4" href="$application_8h.html" title="Definition of the Application class containing every other elements of the simulation. " alt="" coords="317,155,412,181"/>
+<area shape="rect" id="node7" href="$cell_automaton_8cpp.html" title="Implementation of the functions defined in cellAutomaton.h. " alt="" coords="162,155,293,181"/>
+</map>

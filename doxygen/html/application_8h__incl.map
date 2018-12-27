@@ -1,0 +1,5 @@
+<map id="application.h" name="application.h">
+<area shape="rect" id="node7" href="$cell_automaton_8h.html" title="Definition of the cellular automaton class used for the &quot;Game of life&quot;. " alt="" coords="633,80,751,107"/>
+<area shape="rect" id="node9" href="$config_8h.html" title="Configuration of the cellular automaton (window size, cells size...). Contains every customizable fea..." alt="" coords="659,155,725,181"/>
+<area shape="rect" id="node11" href="$random_8h.html" title="Random numbers generation used by random operations in the simulation. " alt="" coords="750,155,826,181"/>
+</map>

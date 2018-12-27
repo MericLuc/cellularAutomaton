@@ -1,0 +1,16 @@
+cellsize
+2
+winx
+1900
+winy
+1000
+fgcol
+255
+255
+255
+bgcol
+0
+102
+255
+miracleProb
+1

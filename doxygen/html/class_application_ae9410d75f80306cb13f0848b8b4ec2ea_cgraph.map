@@ -1,0 +1,6 @@
+<map id="Application::input" name="Application::input">
+<area shape="rect" id="node2" href="$class_keyboard.html#a6a9e160de2d1be4ced6a29f72c50effb" title="Returns the state (pressed or not) of the requested key. " alt="" coords="176,5,327,32"/>
+<area shape="rect" id="node3" href="$class_application.html#a5d4bd2f85a5f913d41ef32b3ec225c37" title="Application::resetView" alt="" coords="176,56,327,83"/>
+<area shape="rect" id="node4" href="$class_config.html#a021ca8957a14db02123ce970d9ad25ea" title="Config::getWindowSizeX" alt="" coords="376,31,539,57"/>
+<area shape="rect" id="node5" href="$class_config.html#a2e47dd60feeccc3470415d5e2d7c2519" title="Config::getWindowSizeY" alt="" coords="375,81,540,108"/>
+</map>

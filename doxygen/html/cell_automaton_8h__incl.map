@@ -1,0 +1,4 @@
+<map id="cellAutomaton.h" name="cellAutomaton.h">
+<area shape="rect" id="node4" href="$config_8h.html" title="Configuration of the cellular automaton (window size, cells size...). Contains every customizable fea..." alt="" coords="181,80,248,107"/>
+<area shape="rect" id="node6" href="$random_8h.html" title="Random numbers generation used by random operations in the simulation. " alt="" coords="273,80,349,107"/>
+</map>

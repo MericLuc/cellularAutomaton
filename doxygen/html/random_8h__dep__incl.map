@@ -1,0 +1,8 @@
+<map id="random.h" name="random.h">
+<area shape="rect" id="node2" href="$cell_automaton_8h.html" title="Definition of the cellular automaton class used for the &quot;Game of life&quot;. " alt="" coords="187,80,303,107"/>
+<area shape="rect" id="node4" href="$application_8cpp.html" title="Implementation of the functions defined in application.h. " alt="" coords="34,229,144,256"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="main file " alt="" coords="273,229,348,256"/>
+<area shape="rect" id="node7" href="$random_8cpp.html" title="Implementations of the functions defined in random.h. " alt="" coords="398,80,489,107"/>
+<area shape="rect" id="node3" href="$application_8h.html" title="Definition of the Application class containing every other elements of the simulation. " alt="" coords="178,155,272,181"/>
+<area shape="rect" id="node6" href="$cell_automaton_8cpp.html" title="Implementation of the functions defined in cellAutomaton.h. " alt="" coords="22,155,153,181"/>
+</map>

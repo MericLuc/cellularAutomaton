@@ -1,0 +1,13 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$class_config.html#a38d923d7d9553c2e92559c599937100b" title="load configuration parameters from &quot;config.txt&quot; file. " alt="" coords="104,233,231,260"/>
+<area shape="rect" id="node3" href="$class_config.html#ad1810caddc32bd5331b12936228ee647" title="Config::setFrameRate" alt="" coords="287,5,435,32"/>
+<area shape="rect" id="node4" href="$class_config.html#aef5d0c1705263056bd098b7acb32beb4" title="Config::setSimX" alt="" coords="304,56,419,83"/>
+<area shape="rect" id="node5" href="$class_config.html#aff359f8de5bf4b9e5fabd1fdcbf24c35" title="Config::setSimY" alt="" coords="303,107,419,133"/>
+<area shape="rect" id="node6" href="$class_config.html#a22eb0d37add711de5dc8ebe4b7a07d1a" title="Config::setCellSize" alt="" coords="295,157,427,184"/>
+<area shape="rect" id="node7" href="$class_config.html#ab48abe16cc7a34e14a9fc50a73b22697" title="Config::setMiracleProb" alt="" coords="285,208,438,235"/>
+<area shape="rect" id="node8" href="$class_config.html#a1413a8ac942c60a04217befdba4cdabe" title="Config::setWindowSizeX" alt="" coords="280,259,443,285"/>
+<area shape="rect" id="node9" href="$class_config.html#afdf50e1d32cf24276dd8333b46e9c71c" title="Config::setWindowSizeY" alt="" coords="279,309,444,336"/>
+<area shape="rect" id="node10" href="$class_config.html#aaf580a0317f01b41c15548ed37e6ce20" title="Config::setBgColour" alt="" coords="293,360,430,387"/>
+<area shape="rect" id="node11" href="$class_config.html#acd4c9f7234f67fe3efb4fdd5129ca721" title="Config::setFgColour" alt="" coords="293,411,429,437"/>
+<area shape="rect" id="node12" href="$class_config.html#a91bcb187ed95ec673137e413a4d77203" title="performs the initialization step of a Config object. " alt="" coords="320,461,403,488"/>
+</map>

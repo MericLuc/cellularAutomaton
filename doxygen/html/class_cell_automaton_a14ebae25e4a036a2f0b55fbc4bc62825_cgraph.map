@@ -1,0 +1,11 @@
+<map id="CellAutomaton::CellAutomaton" name="CellAutomaton::CellAutomaton">
+<area shape="rect" id="node2" href="$class_random.html#a923422b7625498491a1af20e62f3feb7" title="Random::get" alt="" coords="301,5,397,32"/>
+<area shape="rect" id="node3" href="$class_config.html#a431342bf5865b8253e8229174b147f49" title="Config::getSimX" alt="" coords="728,259,843,285"/>
+<area shape="rect" id="node4" href="$class_config.html#a6e0dbe2940ddee57fece03219feac836" title="Config::getSimY" alt="" coords="529,208,645,235"/>
+<area shape="rect" id="node5" href="$class_cell_automaton.html#a28c42c82b8b4c80c264fc0e8b0e57cdd" title="Creates a quad at the requested indexes. " alt="" coords="266,107,433,133"/>
+<area shape="rect" id="node7" href="$class_config.html#a0506eaba84ab3f1adba691480eee14ca" title="Config::getFgColour" alt="" coords="519,157,655,184"/>
+<area shape="rect" id="node8" href="$class_cell_automaton.html#ab317a4f91057ee6f018788bfeb8deae7" title="CellAutomaton::cellForEach" alt="" coords="257,259,441,285"/>
+<area shape="rect" id="node9" href="$class_cell_automaton.html#a7fe5018334a2f91d830d4f215cb63541" title="Returns the 1D index of the cell at specified 2D indexes. " alt="" coords="493,309,680,336"/>
+<area shape="rect" id="node10" href="$class_cell_automaton.html#a144e06cd7505bcb764d270e0ee56bb67" title="Set a colour to the requested cell. " alt="" coords="253,360,445,387"/>
+<area shape="rect" id="node6" href="$class_config.html#a02d214d7c92564bfd01c87bd7aa75ad5" title="Config::getCellSize" alt="" coords="521,107,653,133"/>
+</map>
