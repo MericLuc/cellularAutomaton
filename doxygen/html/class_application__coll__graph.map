@@ -1,4 +1,0 @@
-<map id="Application" name="Application">
-<area shape="rect" id="node2" href="$class_config.html" title="Configuration class containing customized elements of the simulation. " alt="" coords="5,5,64,32"/>
-<area shape="rect" id="node3" href="$class_keyboard.html" title="This class contains the states of the different keys of the keyboard. " alt="" coords="92,5,169,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="cellAutomaton.h" name="cellAutomaton.h">
-<area shape="rect" id="node2" href="$application_8h.html" title="Definition of the Application class containing every other elements of the simulation. " alt="" coords="43,80,138,107"/>
-<area shape="rect" id="node4" href="$main_8cpp.html" title="main file " alt="" coords="139,155,213,181"/>
-<area shape="rect" id="node5" href="$cell_automaton_8cpp.html" title="Implementation of the functions defined in cellAutomaton.h. " alt="" coords="213,80,344,107"/>
-<area shape="rect" id="node3" href="$application_8cpp.html" title="Implementation of the functions defined in application.h. " alt="" coords="5,155,115,181"/>
-</map>
